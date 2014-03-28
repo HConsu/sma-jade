@@ -1,8 +1,7 @@
 sma-jade
 ========
-# Sistemas Multiagente con JADE (JAVA)
-
-Repositorio de la exposición de Sistemas Multiagente con JADE (JAVA)
+Sistemas Multiagente con JADE (JAVA).
+Repositorio de la exposición de Sistemas Multiagente con JADE (JAVA).
 
 ## Integrantes
 
@@ -12,8 +11,8 @@ Repositorio de la exposición de Sistemas Multiagente con JADE (JAVA)
 ```
 A D L   O N L Y
 
-# Working Local Directory
-$ cd G:/Documents/UAEH/inteligenciaArtificial/sma-jade
+# Working Local Directory (GIT)
+$ cd X:/Documents/UAEH/inteligenciaArtificial/sma-jade
 
 ```
 
